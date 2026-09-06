@@ -1,5 +1,12 @@
 # Third-party notices
 
+> Область действия релиза: публичная dictionary/native preview
+> `v0.1.0-alpha.1` не содержит ни одной RuBERT/Core ML модели и ни одного
+> model-vocabulary файла. Внутри её `.app` находится сокращённый
+> release-specific notice только для реально включённых словарей. Разделы
+> RuBERT ниже документируют компоненты полной закрытой сборки и не означают,
+> что они входят в текущий публичный архив.
+
 ## FrequencyWords Russian frequency list
 
 The bundled `ru_50k.txt` file comes from

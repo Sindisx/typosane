@@ -1,9 +1,25 @@
 Copyright (c) 2026 SINDISX. All rights reserved.
 
-The documentation, names, artwork, and first-party binary releases in this
-distribution repository are proprietary unless explicitly stated otherwise.
-No source-code license is granted.
+## Developer preview binary permission
 
-Each binary release must include its applicable end-user terms. Third-party
-components remain governed by the licenses reproduced in the release's
-THIRD_PARTY_NOTICES.md and accompanying license files.
+SINDISX grants each recipient a non-exclusive permission to download, install,
+and run an unmodified official TypoSane/Slovolad developer-preview binary for
+personal evaluation and testing.
+
+No source-code license is granted. No permission is granted to modify,
+redistribute, sublicense, sell, rent, decompile, disassemble, reverse engineer,
+or derive source code from a first-party binary, except solely to the extent
+that such a restriction is prohibited by applicable law.
+
+The project names, marks, artwork, documentation, first-party algorithms, and
+all other first-party rights remain proprietary unless explicitly stated
+otherwise.
+
+Third-party components remain governed by the licenses reproduced in the
+release's THIRD_PARTY_NOTICES.md and accompanying license files. Nothing in
+these terms limits rights granted by those third-party licenses.
+
+THE FIRST-PARTY BINARY AND DOCUMENTATION ARE PROVIDED "AS IS", WITHOUT
+WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, SINDISX IS NOT LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING
+FROM THEIR USE.
