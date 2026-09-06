@@ -40,9 +40,10 @@ SOFTWARE.
 
 The copyright line above applies only to the FrequencyWords corpus.
 
-## cointegrated RuBERT-tiny2
+## cointegrated RuBERT-tiny2 (not included in v0.1.0-alpha.1)
 
-The bundled Core ML candidate scorer and `rubert_tiny2_vocab.txt` are derived
+The private full-build Core ML candidate scorer and `rubert_tiny2_vocab.txt`
+are derived
 from [`cointegrated/rubert-tiny2`](https://huggingface.co/cointegrated/rubert-tiny2)
 by David Dale. The source model is pinned to revision
 `e8ed3b0c8bbf4fb6984c3de043bf7d2f4e5969ae` and is used solely as a local
@@ -51,7 +52,7 @@ masked-language-model scorer for prevalidated Russian correction candidates.
 Source `model.safetensors` SHA-256:
 `26ebb6db2a68593c54c74902d7a74f332da66297693f965cc9f1b0af4abf3894`.
 
-Bundled vocabulary SHA-256:
+Full-build vocabulary SHA-256:
 `f056a69b097422652053bf87565c35543e5d81540ca4b7dddd28de4157a969e0`.
 
 The model card at the pinned revision declares the MIT license but does not
@@ -63,9 +64,9 @@ to this model as well; the FrequencyWords copyright line does not.
 obtain or verify the copyright notice that the MIT license requires preserving,
 or replace the model with an asset whose redistribution record is complete.
 
-## ai-forever RuBERT-base
+## ai-forever RuBERT-base (not included in v0.1.0-alpha.1)
 
-The bundled `RuBERTBaseCandidateScorer` Core ML model and
+The private full-build `RuBERTBaseCandidateScorer` Core ML model and
 `rubert_base_vocab.txt` are derived from
 [`ai-forever/ruBert-base`](https://huggingface.co/ai-forever/ruBert-base),
 pinned to revision `05f37a2ca9e333fd18f30cd0c96c68d274793c69`. Slovolad's
@@ -75,10 +76,10 @@ IDs; it cannot generate arbitrary replacement text.
 Source `pytorch_model.bin` SHA-256:
 `6ab6521e029933cfd0731798544bf7d51876905752e760919c94e5eb4e37f851`.
 
-Bundled Core ML weight SHA-256:
+Full-build Core ML weight SHA-256:
 `11954cd014bdff0cb73981df1bedd0c5bb816092ff6a8c45b1ecf5aea29ddf47`.
 
-Bundled vocabulary SHA-256:
+Full-build vocabulary SHA-256:
 `bbe5063cc3d7a314effd90e9c5099cf493b81f2b9552c155264e16eeab074237`.
 
 The model card declares the Apache License 2.0. The complete license text is
