@@ -21,4 +21,4 @@ concept в открытом issue.
 присылайте пароль, token, signing key или реальную переписку.
 
 Политика coordinated disclosure и safe-harbor будет юридически проверена и
-дополнена до первого публичного релиза.
+дополнена до production-релиза.
