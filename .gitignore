@@ -1,0 +1,8 @@
+*.app
+*.dmg
+*.pkg
+*.zip
+*.dSYM
+*.dSYM.zip
+*.log
+.DS_Store
